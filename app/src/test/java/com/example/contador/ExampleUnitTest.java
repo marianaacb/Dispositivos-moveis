@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.contador;
 
 import org.junit.Test;
 

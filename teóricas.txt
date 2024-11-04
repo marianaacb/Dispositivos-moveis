@@ -1,0 +1,18 @@
+teóricas
+
+1. Um ViewGroup é uma classe base pra todos os gerenciadores de layout, e permitem o posicionamento dos componentes view em um layout.
+
+2. As constantes são usadas para definir o espaço que as views ocupam dentro de um viewgroup
+match_parent: a view ocupa todo o espaço do ViewGroup em que está.
+wrap_content: A view se ajusta ao tamanho necessário apenas para exibir o seu conteúdo
+
+3. O LinearLayout organiza os elementos de maneira linear, ou seja, em uma única direção. 
+Orientação vertical: os elementos são empilhados um em cima do outro
+Horizontal: os elementos são alinhados lado a lado
+
+4. As principais propriedades são gravity e weight.
+weight: controla o a proporção de espaço de cada view. 
+gravity: controla o alinhamento dentro da view 
+
+
+7. faltou a linha android:orientation="vertical"  ao definir o LinearLayout
